@@ -1,4 +1,4 @@
-**StudyBuddy AI Frontend**
+## StudyBuddy AI Frontend
 
 StudyBuddy AI Frontend is a Chrome extension built using HTML, CSS, and JavaScript. It helps students interact with selected text from webpages and get AI-powered study support such as summarization, explanation, and quiz generation.
 
@@ -38,5 +38,8 @@ StudyBuddy-AI/
 ├── service-worker.js
 └── assets/
     └── study.png
+```
 
-## Screenshots
+## Screenshot
+StudyBuddy AI Extension
+![StudyBuddy AI Extension](assets/study.png)
