@@ -38,3 +38,5 @@ StudyBuddy-AI/
 ├── service-worker.js
 └── assets/
     └── study.png
+
+## Screenshots
